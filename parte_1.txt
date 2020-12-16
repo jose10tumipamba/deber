@@ -1,0 +1,13 @@
+Resumen
+Concepto No1 La programación orientada a objetos se lo define 
+como un paradigma de la programación no es la mejor 
+como tal, pero es una de las más usadas en el mundo, 
+ya que tiene una manera de programar específicamente, 
+donde se organiza el código en unidades denominadas
+ clases, de las cuales se crean objetos que se 
+relacionan entre sí para conseguir los objetivos de las
+ aplicaciones.
+Instanciar es crear un objeto a partir de una clase ya 
+que de esta manera se puede crear miles de usuarios 
+sin tener que escribir otra vez un código debido a 
+que solo se escribe una sola vez la planilla.

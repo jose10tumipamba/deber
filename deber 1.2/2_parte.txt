@@ -1,0 +1,13 @@
+Los 4 pilares fundamentales:
+Abstracción. - es algo que queremos omitir son detalles
+ que no son necesarios para nosotros, y queremos 
+solamente mostrar lo que sí es relevante.
+Encapsulamiento. -nos permite controlar quien puede 
+ver y utilizar los distintos módulos internos de 
+nuestro sistema.
+Herencia. – nos permite ahorrar trabajo cuando queremos
+ hacer un cambio en nuestro sistema; permite que un solo
+ algoritmo pueda procesar distintas clases de entidades;
+ entre otras cosas.
+Polimorfismo. – es cuando un método recibe un parámetro
+ que abarca varios tipos como tal.
